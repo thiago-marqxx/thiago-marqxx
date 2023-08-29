@@ -3,7 +3,7 @@
 ### About me
 
 Based in Brazil, I'm a highly motivated
-                 frontend developer with a passion for creating user friendly
+                 front-end developer with a passion for creating user friendly
                  and engaging web experiences.
 
 # Statistics
