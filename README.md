@@ -6,7 +6,7 @@ Based in Brazil, I'm a highly motivated
                  frontend developer with a passion for creating user friendly
                  and engaging web experiences.
 
-#Statistics
+# Statistics
 
 <div>
   <a href="https://github.com/Tubaral">
