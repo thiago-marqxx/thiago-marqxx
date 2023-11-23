@@ -9,7 +9,7 @@ Based in Brazil, I'm a highly motivated
 # Statistics
 
 <div>
-  <a href="https://github.com/Tubaral">
+  <a href="https://github.com/thiago-marqxx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tubaral&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubaral&layout=compact&langs_count=6&theme=transparent"/>
 </div>
