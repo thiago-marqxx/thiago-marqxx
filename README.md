@@ -28,7 +28,7 @@ Based in Brazil, I'm a highly motivated
 <div> 
   
   <a href ="mailto:thiagoml0886@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href ="www.linkedin.com/in/thiago-marques08" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href ="[www.linkedin.com/in/thiago-marques08](https://www.linkedin.com/in/thiago-marques08/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href ="https://wa.me/5511992336134" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
   # Contribution graph
